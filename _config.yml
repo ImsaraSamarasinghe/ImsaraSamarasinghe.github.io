@@ -1,0 +1,60 @@
+# Site settings
+title: Imsara's Portfolio              # Title of your website
+description: >                      # Description for SEO and meta tags
+  This is my personal blog built with Jekyll and hosted on GitHub Pages.
+url: "https://imsarasamarasinghe.github.io"  # Base URL (use empty "" for local hosting)
+baseurl:                         # Used for GitHub Pages hosting if your site is in a repo, example: "/myrepo"
+
+# Build settings
+theme: jekyll-theme-minimal                        # Jekyll theme to use, "minima" is a popular default
+plugins:
+  - jekyll-feed                      # For generating RSS feeds
+  - jekyll-seo-tag                   # Helps with SEO metadata
+  - jekyll-sitemap                   # Generates a sitemap.xml
+  - jekyll-paginate                  # Pagination support
+paginate: 5                          # Number of posts per page
+
+# Social links (optional)
+github_username: ImsaraSamarasinghe
+linkedin_username: Imsara Samarasinghe
+
+# Markdown settings
+markdown: kramdown                   # Markdown parser
+highlighter: rouge                   # Syntax highlighter for code blocks
+
+# Permalinks settings
+permalink: /:year/:month/:day/:title/ # URL structure for posts
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:year/:month/:day/:title/
+
+# Author details (optional)
+author:
+  name: "Imsara Samarasinghe"
+  email: "imsara256@gmail.com"
+  bio: "A short bio about yourself."
+  #avatar: "path/to/avatar.jpg"         # Relative or absolute URL to profile image
+
+
+# Deployment
+github:
+  username: your_github_username
+  repo: your_github_repo              # Name of the repository (without the ".git" extension)
+
+# SEO settings (optional)
+seo:
+  title_separator: " | "              # Separator between page title and site title
+  social:
+    name: "My Jekyll Site"            # Name displayed when shared on social media
+
+# Default metadata for posts/pages (optional)
+defaults:
+  -
+    scope:
+      path: ""                        # Applies to all posts and pages
+    values:
+      layout: "post"                  # Default layout for posts
+
+# Custom variables (optional)
+#custom_logo: "assets/images/logo.png"  # Example custom variable for logo
