@@ -148,3 +148,6 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
         <img src="LDvA.png" alt="Graph 3" class="graph" />
     </div>
 </div>
+
+## High fidelity Simulation of aerofoil cross section in Nektar++
+
