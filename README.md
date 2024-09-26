@@ -32,7 +32,9 @@ The goal of this project was to design an internal structure for an orthopaedic 
 
 Access my project repository [here](https://github.com/ImsaraSamarasinghe/Optimization-of-3D-Printed-Bone-Screws).
 
-![Screw Design](screw.png)
+<div style="text-align: center;">
+  <img src="screw.png" alt="Screw Design" class="hover-image "/>
+</div>
 
 ---
 
