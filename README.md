@@ -37,16 +37,19 @@ This project implements a topology optimisation routine using the Finite Element
 
 The goal of this project was to design an internal structure for an orthopaedic screw that would prevent the bone-screw interface failure. The SIMP optimisation process produces a material distribution that reduces the shear stress concentration near the head of the screw, as this was reportedly the start of bone degradation. The resultant material distribution was also designed to be auxetic to prevent the screw being pulled out due to shrinkage in tension.
 
-Access my project repository [here](https://github.com/ImsaraSamarasinghe/Optimization-of-3D-Printed-Bone-Screws).
-
 <div style="text-align: center;">
-  <img src="screw.png" alt="Screw Design" class="hover-project" />
+  <a href="https://github.com/ImsaraSamarasinghe/Optimization-of-3D-Printed-Bone-Screws" target="_blank">
+    <img src="screw.png" alt="Screw Design" class="hover-project" />
+  </a>
 </div>
 
 ---
 
 # Coding Projects
 ## 2D FDTD simulation of Maxwell's Equations
+This project simulates the propagation of an electromagnetic wave in 2D using the finite-difference time-domain (FDTD) method. It visualizes the evolution of the electric field over time in a grid, which is updated dynamically and saved as an animation. I created this project to learn how the leapfrog scheme is utilised to perform simulations of electromagnetic waves
+
+
 ## 2D Physics engine for multi-bodies
 
 ---
