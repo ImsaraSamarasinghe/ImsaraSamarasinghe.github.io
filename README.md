@@ -1,4 +1,18 @@
 <style>
+/* Dark mode CSS as the default styling */
+:root {
+    --background-color: #121212; /* Dark background */
+    --text-color: #e0e0e0; /* Light text color for dark mode */
+    --button-background: #1b5e20; /* Dark green button background */
+    --button-text-color: white; /* Button text color */
+}
+
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    transition: background-color 0.3s, color 0.3s;
+}
+
 .hover-image {
   width: 150px; /* Set the desired size */
   transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
