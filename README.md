@@ -18,7 +18,9 @@
 
 # About
 <div style="text-align: center;">
-  <img src="GitHubProfile.jpg" alt="Imsara's Profile Picture" class="hover-image" />
+  <a href="https://www.linkedin.com/in/imsaras/" target="_blank">
+    <img src="GitHubProfile.jpg" alt="Imsara's Profile Picture" class="hover-image" />
+  </a>
 </div>
 
 My name is Imsara Samarasinghe. I graduated with my MEng in Aeronautical Engineering from Imperial College London in 2024. During my time at university, I focused on the study of CFD and FE codes. I would like to further pursue this as a career in the future. I am currently looking for a role as a simulation engineer.
