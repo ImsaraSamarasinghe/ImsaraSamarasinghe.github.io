@@ -48,6 +48,23 @@ a:hover {
   transform: scale(1.1); /* Scale the image */
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
 }
+    
+.graph-container {
+    text-align: center; /* Center the images */
+}
+
+.graph-row {
+    display: flex; /* Use flexbox for the row */
+    justify-content: center; /* Center the content in the row */
+    margin-bottom: 20px; /* Space between rows */
+}
+
+.graph {
+    width: 200px; /* Set a specific width for all images */
+    height: auto; /* Maintain aspect ratio */
+    margin: 0 10px; /* Add some space between images */
+}
+
 </style>
 
 
@@ -121,4 +138,13 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
 ---
 
 # Engineering Projects
-## Simulation of aerofoil cross section using xfoil and Star-ccm+
+## Simulation of aerofoil cross section using Xfoil and Star-ccm+
+<div class="graph-container">
+    <div class="graph-row">
+        <img src="CLvA.png" alt="Graph 1" class="graph" />
+        <img src="CdvA.png" alt="Graph 2" class="graph" />
+    </div>
+    <div class="graph-row">
+        <img src="LDvA.png" alt="Graph 3" class="graph" />
+    </div>
+</div>
