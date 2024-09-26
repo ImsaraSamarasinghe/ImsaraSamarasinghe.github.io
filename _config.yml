@@ -6,3 +6,5 @@ baseurl:
 
 # Build settings
 theme: jekyll-theme-minimal
+
+profile_image: "GitHubProfile.jpg"
