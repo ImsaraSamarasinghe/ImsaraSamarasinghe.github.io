@@ -14,7 +14,7 @@ This project implements a topology optimisation routine using the Finite Element
 The goal of this project was to design an internal structure for an orthopaedic screw that would prevent the bone-screw interface failure. The SIMP optimisation process produces a material distribution that reduces the shear stress concentration near the head of the screw, as this was reportedly the start of bone degradation. The resultant material distribution was also designed to be auxetic to prevent the screw being pulled out due to shrinkage in tension.
 
 Read my thesis [here](FYP_Report_01949330 (1).pdf).
-Access my project repository [here]().
+Access my project repository [here](https://github.com/ImsaraSamarasinghe/Optimization-of-3D-Printed-Bone-Screws).
 
 ![Screw Design](screw.png)
 
