@@ -150,4 +150,8 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
 </div>
 
 ## High fidelity Simulation of aerofoil cross section in Nektar++
+<div style="text-align: center;">
+    <img src="3Daero.png" alt="3d aero" class="hover-project" />
+</div>
 
+---
