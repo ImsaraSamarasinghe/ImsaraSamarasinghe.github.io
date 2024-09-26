@@ -100,8 +100,14 @@ I created this code in Python using the Pygame library to develop my skills in P
   </a>
 </div>
 
+## Agent based model for Viral Spread
+I wrote this Matlab code as part of my first-year Computing and Numerical Methods assignment. I learnt how to create agent based models, as well as implement fast and efficient array operations in Matlab. I score a 22.5/25 for this project.
 
-
+<div style="text-align: center;">
+  <a href="https://github.com/ImsaraSamarasinghe/Agent-Based-model-for-Disease-Spread" target="_blank">
+    <img src="2_Days.jpg" alt="Virus" class="hover-project" />
+  </a>
+</div>
 ---
 
 # Engineering Projects
