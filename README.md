@@ -59,6 +59,12 @@ This project simulates the propagation of an electromagnetic wave in 2D using th
 ## 2D Physics engine for multi-bodies
 I created this code in Python using the Pygame library to develop my skills in Python programming and learn game development skills. I also wanted the oppurtunity to learn more about collision mechanics and how they are implemented.
 
+<div style="text-align: center;">
+  <a href="https://github.com/ImsaraSamarasinghe/Python-physics-engine" target="_blank">
+    <img src="PhysicsEnginewithCollisionsUbuntu2024-09-2614-39-22-ezgif.com-video-to-gif-converter.gif" alt="Balls" class="hover-project" />
+  </a>
+</div>
+
 
 
 ---
