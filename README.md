@@ -1,3 +1,16 @@
+<style>
+.hover-image {
+  width: 150px; /* Set the desired size */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+}
+
+.hover-image:hover {
+  transform: scale(1.1); /* Scale the image */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
+}
+</style>
+
+
 # About
 <div style="text-align: center;">
   <img src="GitHubProfile.jpg" alt="Imsara's Profile Picture" class="hover-image "/>
