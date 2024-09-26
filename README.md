@@ -154,4 +154,9 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
     <img src="3Daero.png" alt="3d aero" class="hover-project" />
 </div>
 
+## Finite element simulation of wing box torsion using Abaqus
+<div style="text-align: center;">
+    <img src="newBCtorsion.png" alt="torsion" class="hover-project" />
+</div>
+
 ---
