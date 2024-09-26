@@ -1,10 +1,11 @@
 <style>
 /* Dark mode CSS as the default styling */
+/* Dark mode as default */
 :root {
     --background-color: #121212; /* Dark background */
     --text-color: #e0e0e0; /* Light text color for body */
-    --heading-color: #e0e0e0; /* White color for headings */
-    --subheading-color: #e0e0e0; /* Light grey for subheadings */
+    --heading-color: #ffffff; /* White color for headings */
+    --subheading-color: #b0b0b0; /* Light grey for subheadings */
     --button-background: #1b5e20; /* Dark green button background */
     --button-text-color: white; /* Button text color */
 }
@@ -13,6 +14,24 @@ body {
     background-color: var(--background-color);
     color: var(--text-color);
     transition: background-color 0.3s, color 0.3s;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color); /* White color for headings */
+    margin-bottom: 10px;
+}
+
+h2 {
+    color: var(--subheading-color); /* Lighter color for h2 */
+}
+
+a {
+    color: #4CAF50; /* Green color for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .hover-image {
