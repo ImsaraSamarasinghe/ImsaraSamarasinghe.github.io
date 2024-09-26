@@ -171,4 +171,9 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
 <div style="text-align: center;">
     <img src="duoCop.png" alt="duoCopter" class="hover-project" />
 </div>
+
+## Wing box design for conceptual aircraft
+<div style="text-align: center;">
+    <img src="WingBoxDesign.png" alt="WingBox" class="hover-project" />
+</div>
 ---
