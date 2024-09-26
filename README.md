@@ -49,6 +49,12 @@ The goal of this project was to design an internal structure for an orthopaedic 
 ## 2D FDTD simulation of Maxwell's Equations
 This project simulates the propagation of an electromagnetic wave in 2D using the finite-difference time-domain (FDTD) method. It visualizes the evolution of the electric field over time in a grid, which is updated dynamically and saved as an animation. I created this project to learn how the leapfrog scheme is utilised to perform simulations of electromagnetic waves
 
+<div style="text-align: center;">
+  <a href="https://github.com/ImsaraSamarasinghe/2D-FTDT-Maxwells" target="_blank">
+    <img src="wave_2d_Hy.gif" alt="Wave" class="hover-project" />
+  </a>
+</div>
+
 
 ## 2D Physics engine for multi-bodies
 
