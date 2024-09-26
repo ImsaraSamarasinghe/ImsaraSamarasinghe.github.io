@@ -159,4 +159,12 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
     <img src="newBCtorsion.png" alt="torsion" class="hover-project" />
 </div>
 
+## Structural design of deployable re-entry vehicles and actuator sizing using SimScape
+<div style="text-align: center;">
+    <img src="IBeam-Static 3-Stress-Stress1.jpg" alt="I beam" class="hover-project" />
+</div>
+<div style="text-align: center;">
+    <img src="MultiBody Pic Labelled.png" alt="linkage" class="hover-project" />
+</div>
+
 ---
