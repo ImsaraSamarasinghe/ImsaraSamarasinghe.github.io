@@ -1,0 +1,9 @@
+.hover-image {
+    width: 100px;
+    height: auto;
+    transition: transform 0.3s ease; /* Smooth transition */
+}
+
+.hover-image:hover {
+    transform: scale(1.2); /* Enlarge image on hover */
+}
