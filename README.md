@@ -81,11 +81,21 @@ The goal of this project was to design an internal structure for an orthopaedic 
 ---
 
 # Coding Projects
+## MPI Parallelised Lid Driven Cavity Flow
+This project was undertaken as part of the 4th year HPC module. In this project, I used the MPI library and its functions to parallelise an existing C++ code. The project involved breaking the simulation domain into sevral subdomains. These subdomains were split among several processors and then functions such as `MPI_Send()` and `MPI_Recv()` were used for communication between processors. This was essential to facilitate the centred finite difference calculations at border nodes.
+
+<div style="text-align: center;">
+  <a href="https://github.com/ImsaraSamarasinghe/Lid-Driven-Cavity-Flow" target="_blank">
+    <img src="" alt="Lid Driven" class="hover-project" />
+  </a>
+</div>
+
+
 ## 2D FDTD simulation of Maxwell's Equations
 This project simulates the propagation of an electromagnetic wave in 2D using the finite-difference time-domain (FDTD) method. It visualizes the evolution of the electric field over time in a grid, which is updated dynamically and saved as an animation. I created this project to learn how the leapfrog scheme is utilised to perform simulations of electromagnetic waves
 
 <div style="text-align: center;">
-  <a href="https://github.com/ImsaraSamarasinghe/2D-FTDT-Maxwells" target="_blank">
+  <a href="https://github.com/ImsaraSamarasinghe/2D-FDTD-Maxwells" target="_blank">
     <img src="wave_2d_Hy.gif" alt="Wave" class="hover-project" />
   </a>
 </div>
@@ -101,7 +111,7 @@ I created this code in Python using the Pygame library to develop my skills in P
 </div>
 
 ## Agent based model for Viral Spread
-I wrote this Matlab code as part of my first-year Computing and Numerical Methods assignment. I learnt how to create agent based models, as well as implement fast and efficient array operations in Matlab. I score a 22.5/25 for this project.
+I wrote this Matlab code as part of my first-year Computing and Numerical Methods assignment. I learnt how to create agent-based models, as well as implement fast and efficient array operations in Matlab. I scored a 22.5/25 for this project.
 
 <div style="text-align: center;">
   <a href="https://github.com/ImsaraSamarasinghe/Agent-Based-model-for-Disease-Spread" target="_blank">
