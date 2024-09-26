@@ -3,8 +3,8 @@
 :root {
     --background-color: #121212; /* Dark background */
     --text-color: #e0e0e0; /* Light text color for body */
-    --heading-color: #ffffff; /* White color for headings */
-    --subheading-color: #b0b0b0; /* Light grey for subheadings */
+    --heading-color: #e0e0e0; /* White color for headings */
+    --subheading-color: #e0e0e0; /* Light grey for subheadings */
     --button-background: #1b5e20; /* Dark green button background */
     --button-text-color: white; /* Button text color */
 }
