@@ -86,7 +86,7 @@ This project was undertaken as part of the 4th year HPC module. In this project,
 
 <div style="text-align: center;">
   <a href="https://github.com/ImsaraSamarasinghe/Lid-Driven-Cavity-Flow" target="_blank">
-    <img src="" alt="Lid Driven" class="hover-project" />
+    <img src="Lid.png" alt="Lid Driven" class="hover-project" />
   </a>
 </div>
 
