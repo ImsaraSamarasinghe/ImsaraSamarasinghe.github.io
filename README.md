@@ -167,7 +167,7 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
     <img src="MultiBody Pic Labelled.png" alt="linkage" class="hover-project" />
 </div>
 
-## PID controlled design for duocopter
+## PID controller design for a duo copter
 <div style="text-align: center;">
     <img src="duoCop.png" alt="duoCopter" class="hover-project" />
 </div>
