@@ -1,4 +1,8 @@
 <style>
+    /* Hide GitHub profile link */
+    a[href*="github.com"] {
+      display: none;
+    }
 /* Dark mode CSS as the default styling */
 /* Dark mode as default */
 :root {
