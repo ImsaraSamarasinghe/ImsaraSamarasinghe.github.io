@@ -8,12 +8,17 @@
   transform: scale(1.1); /* Scale the image */
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
 }
+
+.hover-project:hover {
+  transform: scale(1.1); /* Scale the image */
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
+}
 </style>
 
 
 # About
 <div style="text-align: center;">
-  <img src="GitHubProfile.jpg" alt="Imsara's Profile Picture" class="hover-image "/>
+  <img src="GitHubProfile.jpg" alt="Imsara's Profile Picture" class="hover-image" />
 </div>
 
 My name is Imsara Samarasinghe. I graduated with my MEng in Aeronautical Engineering from Imperial College London in 2024. During my time at university, I focused on the study of CFD and FE codes. I would like to further pursue this as a career in the future. I am currently looking for a role as a simulation engineer.
@@ -33,7 +38,7 @@ The goal of this project was to design an internal structure for an orthopaedic 
 Access my project repository [here](https://github.com/ImsaraSamarasinghe/Optimization-of-3D-Printed-Bone-Screws).
 
 <div style="text-align: center;">
-  <img src="screw.png" alt="Screw Design" class="hover-image "/>
+  <img src="screw.png" alt="Screw Design" class="hover-project" />
 </div>
 
 ---
