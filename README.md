@@ -141,7 +141,7 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
 ## Simulation of aerofoil cross section using Xfoil and Star-ccm+
 <div class="graph-container">
     <div class="graph-row">
-        <img src="CLvA.png" alt="Graph 1" class="graph" />
+        <img src="ClvA.png" alt="Graph 1" class="graph" />
         <img src="CdvA.png" alt="Graph 2" class="graph" />
     </div>
     <div class="graph-row">
