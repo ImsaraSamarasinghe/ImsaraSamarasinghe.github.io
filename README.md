@@ -135,6 +135,13 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
     <img src="2_Days.jpg" alt="Virus" class="hover-project" />
   </a>
 </div>
+
+## Agent based Schelling segregation model
+<div style="text-align: center;">
+  <a href="https://github.com/ImsaraSamarasinghe/Schelling-Segregation" target="_blank">
+    <img src="" alt="Segragation" class="hover-project" />
+  </a>
+</div>
 ---
 
 # Engineering Projects
