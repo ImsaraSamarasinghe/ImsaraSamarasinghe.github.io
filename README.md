@@ -141,6 +141,7 @@ I wrote this Matlab code as part of my first-year Computing and Numerical Method
 </div>
 
 ## Agent based Schelling segregation model
+This project implements a simple agent-based model to simulate residential segregation, following the Schelling Segregation Model. The model uses a 2D grid where agents (representing people) are either of type 1 or -1, and their movement is determined by their satisfaction with their neighbourhood.
 <div style="text-align: center;">
   <a href="https://github.com/ImsaraSamarasinghe/Schelling-Segregation" target="_blank">
     <img src="schelling.png" alt="Segragation" class="hover-project" />
