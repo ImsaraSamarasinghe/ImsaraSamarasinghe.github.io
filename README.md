@@ -87,13 +87,17 @@ I have developed programming skills in Python, C++, Matlab and Fortran. I have w
 ## Optimising 3D printed bone screws
 This project implements a topology optimisation routine using the Finite Element Method (FEM) for a bone screw. The code leverages the Firedrake and IPOPT (via cyipopt) libraries to solve for the optimal material distribution of the screw material under a load, based on the Solid Isotropic Material with Penalization (SIMP) model. The output is the optimized material distribution and an animation of the optimization process.
 
-The goal of this project was to design an internal structure for an orthopaedic screw that would prevent the bone-screw interface failure. The SIMP optimisation process produces a material distribution that reduces the shear stress concentration near the head of the screw, as this was reportedly the start of bone degradation. The resultant material distribution was also designed to be auxetic to prevent the screw from being pulled out due to shrinkage in tension.
+The goal of this project was to design an internal structure for an orthopaedic screw that would prevent bone-screw interface failure. The SIMP optimisation process produces a material distribution that reduces the shear stress concentration near the head of the screw, as this was reportedly the start of bone degradation. The resultant material distribution was also designed to be auxetic to prevent the screw from being pulled out due to shrinkage in tension. I received a first class grade for this research project (score: 71.27%).
 
 <div style="text-align: center;">
   <a href="https://github.com/ImsaraSamarasinghe/Optimization-of-3D-Printed-Bone-Screws" target="_blank">
     <img src="screw.png" alt="Screw Design" class="hover-project" />
   </a>
 </div>
+
+### Acknowledgements
+
+Prof. Robert Hewson & Dr. Roderick Lubbock
 
 ---
 
