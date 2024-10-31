@@ -111,6 +111,14 @@ This project was undertaken as part of the 4th year HPC module. In this project,
   </a>
 </div>
 
+## 3D Graphics and Physics Engine
+
+
+<div style="text-align: center;">
+  <a href="https://github.com/ImsaraSamarasinghe/3D-graphics-engine" target="_blank">
+    <img src="Bounce.gif" alt="Bounce" class="hover-project" />
+  </a>
+</div>
 
 ## 2D FDTD simulation of Maxwell's Equations
 This project simulates the propagation of an electromagnetic wave in 2D using the finite-difference time-domain (FDTD) method. It visualizes the evolution of the electric field over time in a grid, which is updated dynamically and saved as an animation. I created this project to learn how the leapfrog scheme is utilised to perform simulations of electromagnetic waves
