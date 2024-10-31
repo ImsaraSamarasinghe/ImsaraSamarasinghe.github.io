@@ -120,6 +120,12 @@ This project utilises principles learnt from the previous PyGame project on a bi
   </a>
 </div>
 
+<div style="text-align: center;">
+  <a href="https://github.com/ImsaraSamarasinghe/3D-graphics-engine" target="_blank">
+    <img src="Cubes.gif" alt="Cubes" class="hover-project" />
+  </a>
+</div>
+
 ## 2D FDTD simulation of Maxwell's Equations
 This project simulates the propagation of an electromagnetic wave in 2D using the finite-difference time-domain (FDTD) method. It visualizes the evolution of the electric field over time in a grid, which is updated dynamically and saved as an animation. I created this project to learn how the leapfrog scheme is utilised to perform simulations of electromagnetic waves
 
