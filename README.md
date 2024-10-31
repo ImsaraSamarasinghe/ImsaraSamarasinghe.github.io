@@ -112,7 +112,7 @@ This project was undertaken as part of the 4th year HPC module. In this project,
 </div>
 
 ## 3D Graphics and Physics Engine
-
+This project utilises principles learnt from the previous PyGame project on a bigger scale. It uses the PyGame package's window creation and shape display options alongside a self-written set of 3D to 2D transforms and rotation calculations to effectively display 3D shapes. The code has shapes such as spheres and cubes defined through classes. The `Sphere` class has attributes that implement gravity and impact with the floor.
 
 <div style="text-align: center;">
   <a href="https://github.com/ImsaraSamarasinghe/3D-graphics-engine" target="_blank">
